@@ -83,9 +83,9 @@ The application follows a simple **Model-View-Controller (MVC)** pattern impleme
 
 Explore other components of the research portfolio:
 
-1.  **[EasyCom](../easycom)** - The evolution of this concept into a full-scale E-commerce application.
-2.  **[InspectHealth](../inspecthealth)** - Another example of frontend-focused development using libraries (React).
-3.  **[BankSync](../banksync)** - Shows how financial calculations (like in this calculator) are handled securely in a real app.
+1.  **[EasyCom](https://github.com/sajidmahamud835/easycom)** - The evolution of this concept into a full-scale E-commerce application.
+2.  **[InspectHealth](https://github.com/sajidmahamud835/inspecthealth)** - Another example of frontend-focused development using libraries (React).
+3.  **[BankSync](https://github.com/sajidmahamud835/banksync)** - Shows how financial calculations (like in this calculator) are handled securely in a real app.
 
 ---
 
